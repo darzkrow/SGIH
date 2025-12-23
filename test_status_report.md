@@ -9,7 +9,7 @@
    - All services running and healthy
 
 2. **✅ Database Migrations**
-   - All Django migrations created and applied successfully
+   - All DjaHIDROVEN_inngo migrations created and applied successfully
    - Core, Inventory, Transfers, and Notifications models migrated
    - Fixed historial_movimientos field validation issue
 
